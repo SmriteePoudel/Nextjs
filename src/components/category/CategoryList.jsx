@@ -61,7 +61,7 @@ export default function CategoryList() {
 
   return (
     <div className="w-full mx-auto my-20 px-4">
-      <div className="bg-white rounded-lg shadow-sm border border-gray-100">
+      <div className="bg-white rounded-lg shadow-sm border border-gray-100 p-5">
         <div className="px-6 py-4 border-b border-gray-100">
           <div className="flex justify-between items-center">
             <h2 className="text-xl font-semibold text-gray-800">Categories</h2>

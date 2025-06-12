@@ -65,7 +65,7 @@ export default function CourseList() {
 
   return (
     <div className="w-full mx-auto my-20 px-4">
-      <div className="bg-white rounded-lg shadow-sm border border-gray-100">
+      <div className="bg-white rounded-lg shadow-sm border border-gray-100 p-5">
         <div className="px-4 py-2 border-b border-gray-100">
           <div className="flex justify-between items-center">
             <h2 className="text-xl font-semibold text-gray-800">Courses</h2>
